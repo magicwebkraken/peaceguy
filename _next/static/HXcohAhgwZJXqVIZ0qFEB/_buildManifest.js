@@ -1,0 +1,26 @@
+(self.__BUILD_MANIFEST = (function (e, r, s) {
+  return {
+    __rewrites: { afterFiles: [], beforeFiles: [], fallback: [] },
+    __routerFilterStatic: {
+      numItems: 0,
+      errorRate: 1e-4,
+      numBits: 0,
+      numHashes: null,
+      bitArray: [],
+    },
+    __routerFilterDynamic: {
+      numItems: e,
+      errorRate: 1e-4,
+      numBits: e,
+      numHashes: null,
+      bitArray: [],
+    },
+    "/": [
+      "static/chunks/967-10b6d84b24627eed.js",
+      "static/chunks/pages/index-a137778a2c67e1b6.js",
+    ],
+    "/_error": ["static/chunks/pages/_error-41608b100cc61246.js"],
+    sortedPages: ["/", "/_app", "/_error"],
+  };
+})(0, 1e-4, null)),
+  self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB();
