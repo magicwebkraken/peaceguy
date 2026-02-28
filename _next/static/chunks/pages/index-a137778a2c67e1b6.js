@@ -106,7 +106,7 @@
           });
         },
         x = JSON.parse(
-          '{"lj":[{"name":"X","url":"0x1eB683F42784C989E798B4030534c605E7D7a9a3","icon":"/icons/twitter.png"},{"name":"TikTok","url":"https://t.me/peaceguyEth","icon":"/icons/icon-telegram.png"},{"name":"Dexscreener","url":"https://dexscreener.com/ethereum/0x1eB683F42784C989E798B4030534c605E7D7a9a3","icon":"/icons/dexscreener.png"},{"name":"Dextools","url":"https://www.dextools.io/app/ether/pair-explorer/0x17dd24e04f2d1dd4e3ad4dff6719d791d47f3c2c","icon":"/icons/dextools.png"}],"$T":"0x1eB683F42784C989E798B4030534c605E7D7a9a3","_m":"https://birdeye.so/token/0x1eB683F42784C989E798B4030534c605E7D7a9a3?chain=solana"}'
+          '{"lj":[{"name":"X","url":"https://x.com/peaceguy_Eth","icon":"/icons/twitter.png"},{"name":"TikTok","url":"https://t.me/peaceguyEth","icon":"/icons/icon-telegram.png"},{"name":"Dexscreener","url":"https://dexscreener.com/ethereum/0x1eB683F42784C989E798B4030534c605E7D7a9a3","icon":"/icons/dexscreener.png"},{"name":"Dextools","url":"https://www.dextools.io/app/ether/pair-explorer/0x17dd24e04f2d1dd4e3ad4dff6719d791d47f3c2c","icon":"/icons/dextools.png"}],"$T":"0x1eB683F42784C989E798B4030534c605E7D7a9a3","_m":"https://birdeye.so/token/0x1eB683F42784C989E798B4030534c605E7D7a9a3?chain=solana"}'
         ),
         m = () =>
           (0, n.jsx)("div", {
